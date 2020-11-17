@@ -1,0 +1,2 @@
+com/agus_18104002/pertemuan5/BuildConfig.java
+ com.agus_18104002.pertemuan5.BuildConfig

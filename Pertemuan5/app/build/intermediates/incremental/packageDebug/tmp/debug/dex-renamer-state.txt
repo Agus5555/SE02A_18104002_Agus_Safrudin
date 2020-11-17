@@ -1,0 +1,4 @@
+#Tue Nov 10 20:20:44 ICT 2020
+base.0=C\:\\Users\\Agus Jems\\Documents\\PrakPPB\\SE02A_18104002_Agus_Safrudin\\Pertemuan3\\Pertemuan5\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
