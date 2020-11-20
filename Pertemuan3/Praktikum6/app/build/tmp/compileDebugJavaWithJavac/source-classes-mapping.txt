@@ -1,2 +1,0 @@
-com/agus_18104002/praktikum6/BuildConfig.java
- com.agus_18104002.praktikum6.BuildConfig

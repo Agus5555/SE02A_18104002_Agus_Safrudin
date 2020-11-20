@@ -14,7 +14,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity() {
     private fun showRecyclerGrid() {
         rv_mydata.layoutManager = GridLayoutManager(this, 2)
-        val gridMyDataAdapter = GridMyDataAdapter(list)
+        val gridMyDataAdapter = GridMyDataAdapter(list,this)
         rv_mydata.adapter = gridMyDataAdapter
     }
     private val list = ArrayList<MyData>()
@@ -74,7 +74,7 @@ class MainActivity : AppCompatActivity() {
     }
     private fun showRecyclerList() {
         rv_mydata.layoutManager = LinearLayoutManager(this)
-        val listMyDataAdapter = ListMyDataAdapter(list)
+        val listMyDataAdapter = ListMyDataAdapter(list,this)
         rv_mydata.adapter = listMyDataAdapter
     }
 }
