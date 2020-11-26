@@ -1,0 +1,2 @@
+com/agus_18104002/lifecycleapp/BuildConfig.java
+ com.agus_18104002.lifecycleapp.BuildConfig
