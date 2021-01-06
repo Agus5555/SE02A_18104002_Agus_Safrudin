@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Praktikum 9</string>
+    <string name="main_title">Dashboard</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="phone">Nomor Telepon</string>
+    <string name="age">Umur</string>
+    <string name="tv_height">Program Studi</string>
+    <string name="tv_weight">Alamat</string>
+    <string name="tv_theme">Theme Mode</string>
+    <string name="weight">Program Studi</string>
+    <string name="height">Alamat</string>
+    <string name="dark_theme">Tema Gelap</string>
+    <string name="light_theme">Tema Terang</string>
+    <string name="yes">Ya</string>
+    <string name="save">Simpan</string>
+    <string name="setting_page">Setting</string>
+    <string name="field_required">Kolom Tidak Boleh Kosong</string>
+    <string name="email_is_not_valid">Email Tidak Valid</string>
+    <string name="field_digit_only">Kolom Hanya Untuk Angka</string>
+    <string name="settings">Setting</string>
+    <string name="no" />
+</resources>
