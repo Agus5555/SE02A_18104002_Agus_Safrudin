@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Documents\\SE02A_18104002_Agus_Safrudin\\Pertemuan10\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_quote_add_update.xml",
+        "source": "D:\\Documents\\SE02A_18104002_Agus_Safrudin\\Pertemuan10\\app\\src\\main\\res\\layout\\activity_quote_add_update.xml"
+    },
+    {
+        "merged": "D:\\Documents\\SE02A_18104002_Agus_Safrudin\\Pertemuan10\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Documents\\SE02A_18104002_Agus_Safrudin\\Pertemuan10\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Documents\\SE02A_18104002_Agus_Safrudin\\Pertemuan10\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_quote.xml",
+        "source": "D:\\Documents\\SE02A_18104002_Agus_Safrudin\\Pertemuan10\\app\\src\\main\\res\\layout\\item_quote.xml"
+    }
+]

@@ -1,0 +1,8 @@
+com/agus_18104002/pertemuan10/databinding/ItemQuoteBinding.java
+ com.agus_18104002.pertemuan10.databinding.ItemQuoteBinding
+com/agus_18104002/pertemuan10/databinding/ActivityQuoteAddUpdateBinding.java
+ com.agus_18104002.pertemuan10.databinding.ActivityQuoteAddUpdateBinding
+com/agus_18104002/pertemuan10/databinding/ActivityMainBinding.java
+ com.agus_18104002.pertemuan10.databinding.ActivityMainBinding
+com/agus_18104002/pertemuan10/BuildConfig.java
+ com.agus_18104002.pertemuan10.BuildConfig
